@@ -1,0 +1,35 @@
+Data Science is the area of study which involves extracting insights from vast amounts of data using various scientific methods, algorithms, and processes. It helps you to discover hidden patterns from the raw data. The term Data Science has emerged because of the evolution of mathematical statistics, data analysis, and big data.
+
+Data Science is an interdisciplinary field that allows you to extract knowledge from structured or unstructured data. Data science enables you to translate a business problem into a research project and then translate it back into a practical solution.
+
+Here are significant advantages of using Data Analytics Technology:
+
+Data is the oil for today’s world. With the right tools, technologies, algorithms, we can use data and convert it into a distinct business advantage.
+Data Science can help you to detect fraud using advanced machine learning algorithms.
+It helps you to prevent any significant monetary losses.
+Allows to build intelligence ability in machines.
+You can perform sentiment analysis to gauge customer brand loyalty.
+It enables you to take better and faster decisions.
+It helps you to recommend the right product to the right customer to enhance your business.
+
+Statistics is the most critical unit of Data Science basics, and it is the method or science of collecting and analyzing numerical data in large quantities to get useful insights.
+
+Visualization technique helps you access huge amounts of data in easy to understand and digestible visuals.
+
+Machine Learning explores the building and study of algorithms that learn to make predictions about unforeseen/future data.
+
+Deep Learning method is new machine learning research where the algorithm selects the analysis model to follow.
+
+Discovery step involves acquiring data from all the identified internal & external sources, which helps you answer the business question.
+
+A Data Scientist is a professional who manages enormous amounts of data to come up with compelling business visions by using various tools, techniques, methodologies, algorithms, etc.
+
+The role of a data engineer is of working with large amounts of data. He develops, constructs, tests, and maintains architectures like large scale processing systems and databases.
+
+A data analyst is responsible for mining vast amounts of data. They will look for relationships, patterns, trends in data. Later he or she will deliver compelling reporting and visualization for analyzing the data to take the most viable business decisions.
+
+The statistician collects, analyses, and understands qualitative and quantitative data using statistical theories and methods.
+
+Data admin should ensure that the database is accessible to all relevant users. He also ensures that it is performing correctly and keeps it safe from hacking.
+
+Business Analyst needs to improve business processes. He/she is an intermediary between the business executive team and the IT department.
